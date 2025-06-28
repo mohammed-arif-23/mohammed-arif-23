@@ -183,5 +183,5 @@ I'm a passionate **Full Stack Developer** currently working at **AVS & Sakthi Ka
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=6B7280&center=true&vCenter=true&width=500&lines=Building+scalable+solutions+that+make+a+difference;Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!" alt="Footer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=6B7280&center=true&vCenter=true&width=800&lines=Building+scalable+solutions+that+make+a+difference;Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!" alt="Footer" />
 </div>
