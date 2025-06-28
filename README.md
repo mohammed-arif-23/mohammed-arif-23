@@ -1,13 +1,13 @@
 # Hi there! 👋 I'm Mohammed Arif T
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+%26+ML+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+%26+ML+Enthusiast" alt="Typing Animation" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohammed-arif-23&label=Profile%20views&color=3b82f6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mohammed-arif-23&label=Profile%20views&color=3b82f6&style=for-the-badge" alt="Profile views" />
   <a href="https://github.com/mohammed-arif-23?tab=followers">
-    <img src="https://img.shields.io/github/followers/mohammed-arif-23?label=Followers&style=social" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/mohammed-arif-23?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers" />
   </a>
 </div>
 
@@ -29,43 +29,50 @@ I'm a passionate **Full Stack Developer** currently working at **AVS & Sakthi Ka
 
 <div align="center">
 
-**Frontend**
-<br/>
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+### Frontend Technologies
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 
-**Backend**
-<br/>
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+### Backend Technologies
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
 
-**Database & Cloud**
-<br/>
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+### Databases & Cloud Services
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 
-**AI/ML**
-<br/>
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+### AI/ML & Data Science
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
 
-</div>
+### Development Tools
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
 
----
+### Additional Skills
+<img src="https://img.shields.io/badge/RESTful_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="RESTful APIs" />
+<img src="https://img.shields.io/badge/AJAX-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="AJAX" />
+<img src="https://img.shields.io/badge/Responsive_Design-FF6B35?style=for-the-badge&logo=css3&logoColor=white" alt="Responsive Design" />
+<img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="SEO" />
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammed-arif-23&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-arif-23&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -74,26 +81,58 @@ I'm a passionate **Full Stack Developer** currently working at **AVS & Sakthi Ka
 
 ### 🍽️ [Pixels to Plates](https://github.com/mohammed-arif-23/pixelstoplates)
 **AI-Powered Food Recognition Platform**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+<img src="https://img.shields.io/badge/Computer_Vision-FF6B35?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" />
+
 ```
-🔧 Tech Stack: Python, DenseNet, Keras, Django/Flask
-✨ Features: Real-time food analysis, nutritional insights, meal planning
-🎯 Impact: End-to-end pipeline from image processing to dietary recommendations
+✨ Features: 
+  • Real-time food analysis using DenseNet models
+  • Nutritional analysis of detected foods
+  • Personalized recipe suggestions
+  • Meal planning with cooking time estimates
+  • End-to-end pipeline from image processing to dietary insights
 ```
 
 ### 🛍️ [E-Commerce Platform](https://github.com/mohammed-arif-23/shopping)
 **Full-Stack Online Shopping Solution**
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google OAuth" />
+
 ```
-🔧 Tech Stack: Next.js, React, Firebase, Tailwind CSS
-✨ Features: Google OAuth, Real-time cart sync, Order tracking
-🎯 Impact: Complete shopping experience with modern UI/UX
+✨ Features:
+  • Google OAuth integration for secure login
+  • Real-time cart synchronization across devices
+  • User authentication and authorization
+  • Shopping cart persistence
+  • Order tracking system
+  • Modern responsive design with smooth animations
 ```
 
 ### 🎨 [Portfolio Website](https://github.com/mohammed-arif-23/Portfolio)
 **Modern Interactive Portfolio**
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+<img src="https://img.shields.io/badge/3D_Effects-FF6B35?style=for-the-badge&logo=three.js&logoColor=white" alt="3D Effects" />
+
 ```
-🔧 Tech Stack: Next.js, TypeScript, Tailwind CSS
-✨ Features: 3D effects, animated backgrounds, responsive design
-🎯 Impact: Showcase of projects and skills with smooth animations
+✨ Features:
+  • Animated backgrounds and 3D effects
+  • Sequential scroll animations
+  • Responsive design across all devices
+  • Performance optimized
+  • Modern UI/UX design
+  • Interactive project showcases
 ```
 
 ---
@@ -101,26 +140,26 @@ I'm a passionate **Full Stack Developer** currently working at **AVS & Sakthi Ka
 ## 💼 Professional Experience
 
 **Full Stack Developer** • *AVS & Sakthi Kailash Educational Institutions* • *Mar 2025 - Present*
-- Delivered robust full-stack solutions using PHP, MySQL, JavaScript, and RESTful APIs
+
+<img src="https://img.shields.io/badge/Achievement-Improved_Performance_by_30%25-success?style=for-the-badge" alt="Achievement" />
+
+- Delivered robust full-stack solutions using **PHP, MySQL, JavaScript, and RESTful APIs**
 - **Improved website performance by 30%** through database and front-end optimization  
-- Enhanced user experience with responsive, SEO-friendly designs
-- Integrated AJAX for dynamic content updates and better interactivity
+- Enhanced user experience with **responsive, SEO-friendly designs**
+- Integrated **AJAX** for dynamic content updates and better interactivity
+- Collaborated with **UI/UX teams** to implement modern design solutions
 
 ---
 
 ## 🎓 Education & Certifications
 
-- **B.Tech in IT** • AVS Engineering College • *2023-2027*
-- **React.js Certification** • Infosys Springboard • *June 2025*
-- **12th Standard** • 86.4% • St. Paul's Higher Secondary School
-- **10th Standard** • 100% • The Gugai Higher Secondary School
-
----
-
-## 📈 Current Activity
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-arif-23&theme=default&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://img.shields.io/badge/B.Tech_IT-AVS_Engineering_College-blue?style=for-the-badge" alt="B.Tech" />
+<img src="https://img.shields.io/badge/React.js_Certified-Infosys_Springboard-green?style=for-the-badge" alt="React Certification" />
+<img src="https://img.shields.io/badge/12th_Standard-86.4%25-orange?style=for-the-badge" alt="12th Grade" />
+<img src="https://img.shields.io/badge/10th_Standard-100%25-gold?style=for-the-badge" alt="10th Grade" />
+
 </div>
 
 ---
@@ -129,16 +168,20 @@ I'm a passionate **Full Stack Developer** currently working at **AVS & Sakthi Ka
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mohammedarif2303@gmail.com)
+<a href="https://myportfolio-arif.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://linkedin.com/in/mohammed-arif-0ab6402a1">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:mohammedarif2303@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 </div>
 
 ---
 
 <div align="center">
-  <i>"Building scalable solutions that make a difference"</i>
-  <br/><br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=6B7280&center=true&vCenter=true&width=400&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!" alt="Footer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=6B7280&center=true&vCenter=true&width=500&lines=Building+scalable+solutions+that+make+a+difference;Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!" alt="Footer" />
 </div>
